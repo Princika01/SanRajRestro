@@ -1,2 +1,5 @@
-# SanRajRestro
-This project is a web-based application designed tp streamline restaurant operations.It allow users to place food orders,make table reservation ,and manage inventory efficiently.Built using HTML,CSS,PHP,MYSQL,the system provides a user friendly interface for both customers and restaurant staff.
+# SanRaj Restro
+
+A Simple Demo Resturant Management System Project in PHP
+
+A pure custom PHP Project. Build for reference!
